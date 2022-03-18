@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-18": 30
+      "2022-03-18": 31
     }
   },
   {
@@ -43,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/www.uchceu.es",
     "slug": "www-uchceu-es",
     "status": "up",
-    "uptime": "0.44%",
-    "uptimeDay": "0.44%",
-    "uptimeWeek": "0.44%",
-    "uptimeMonth": "0.44%",
-    "uptimeYear": "0.44%",
+    "uptime": "0.76%",
+    "uptimeDay": "0.76%",
+    "uptimeWeek": "0.76%",
+    "uptimeMonth": "0.76%",
+    "uptimeYear": "0.76%",
     "time": 1572,
     "timeDay": 1572,
     "timeWeek": 1572,
