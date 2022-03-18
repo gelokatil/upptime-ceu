@@ -6,7 +6,7 @@ sites:
   - name: www.ceu.es
     url: https://www.ceu.es
   - name: www.uspceu.com
-    url: http://www.uspceu.com
+    url: https://www.uspceu.com
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
@@ -14,7 +14,7 @@ sites:
       - 302
     maxRedirects: 10  
   - name: www.uchceu.es
-    url: http://www.uchceu.es
+    url: https://www.uchceu.es
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
