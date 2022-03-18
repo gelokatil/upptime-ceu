@@ -5,14 +5,14 @@ repo: upptime-ceu # The name of this repository
 sites:
   - name: www.ceu.es
     url: https://www.ceu.es
-  - name: www.uspceu.com
-    url: http://www.uspceu.es
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
-      - 301
-      - 302
-    maxRedirects: 30
+#  - name: www.uspceu.com
+#    url: http://www.uspceu.es
+#    maxResponseTime: 10000
+#    expectedStatusCodes:
+#      - 200
+#      - 301
+#      - 302
+#    maxRedirects: 30
   - name: www.uchceu.es
     url: https://www.uchceu.es
     maxResponseTime: 10000
