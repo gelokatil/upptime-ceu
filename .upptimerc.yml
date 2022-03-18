@@ -12,6 +12,7 @@ sites:
       - 200
       - 301
       - 302
+    maxRedirects: 10  
   - name: www.uchceu.es
     url: http://www.uchceu.es
     maxResponseTime: 10000
