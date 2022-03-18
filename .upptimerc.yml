@@ -6,13 +6,11 @@ sites:
   - name: www.ceu.es
     url: https://www.ceu.es
   - name: www.uspceu.com
-    url: https://www.uspceu.com
+    url: http://www.uspceu.com
   - name: www.uchceu.es
-    url: https://www.uchceu.es
+    url: http://www.uchceu.es
   - name: www.uaoceu.es  
     url: www.uaoceu.es
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 assignees:
   - gelokatil
