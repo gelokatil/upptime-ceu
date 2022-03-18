@@ -8,10 +8,10 @@ sites:
   - name: www.uspceu.com
     url: https://www.uspceu.com
     maxResponseTime: 10000
-#    expectedStatusCodes:
-#      - 200
-#      - 301
-#      - 302
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
     maxRedirects: 0
   - name: www.uchceu.es
     url: https://www.uchceu.es
@@ -73,7 +73,7 @@ assignees:
   - gelokatil
 
 status-website:
-  theme: night
+  theme: ocean #light, dark, night or ocean.
   metaTags:
     - name: "robots"
       content: "noindex"
