@@ -52,6 +52,160 @@ sites:
     url: https://www.colegioceusanchinarro.es
   - name: www.colegioceuclaudiocoello.es
     url: https://www.colegioceuclaudiocoello.es   
+  - name: admision.uspceu.es
+    url: https://admision.uspceu.es
+  - name: www.caminoespiritualdelsur.com
+    url: https://www.caminoespiritualdelsur.com
+  - name: www.clubemprendedoresceu.com
+    url: http://www.clubemprendedoresceu.com
+  - name: www.angelayala.ceu.es
+    url: https:// www.angelayala.ceu.es
+  - name: admisionint.uspceu.es
+    url: https://admisionint.uspceu.es
+  - name: revistas.uspceu.com
+    url: https://revistas.uspceu.com
+  - name: appsintranet.ceu.es
+    url: https://appsintranet.ceu.es
+  - name: admisionescolegios.ceu.es
+    url: https://admisionescolegios.ceu.es
+  - name: admision.isepceu.es
+    url: https://admision.isepceu.es
+  - name: admision.uaoceu.es
+    url: https://admision.uaoceu.es
+  - name: admisioniam.ceu.es
+    url: https://admisioniam.ceu.es
+  - name: exploria-erasmus.com
+    url: http://exploria-erasmus.com
+  - name: altasolicitudesinfo.ceu.es
+    url: https://altasolicitudesinfo.ceu.es
+  - name: gcet19.uspceu.es
+    url: https://gcet19.uspceu.es
+  - name: www.jornadas.ceu.es
+    url: https://www.jornadas.ceu.es
+  - name: www.culturajoven.es
+    url: https://www.culturajoven.es
+  - name: onceulab.com
+    url: http://onceulab.com
+  - name: centroaudiovisual.uspceu.com
+    url: https://centroaudiovisual.uspceu.com
+  - name: provuldig.com
+    url: http://provuldig.com
+  - name: www.idee.ceu.es
+    url: https://www.idee.ceu.es
+  - name: protocolo.isepceu.es
+    url: https://protocolo.isepceu.es
+  - name: www.educacionporderecho.com
+    url: https://www.educacionporderecho.com
+  - name: 100peliculashistoricas.ceu.es
+    url: https://100peliculashistoricas.ceu.es
+  - name: observatorio-btl.uchceu.es
+    url: http://observatorio-btl.uchceu.es
+  - name: www.ceumedia.es
+    url: http://www.ceumedia.es
+  - name: admisiontech.ceu.es
+    url: https://admisiontech.ceu.es
+  - name: www.vividores.org
+    url: https://www.vividores.org
+  - name: www.provuldig2.com
+    url: https://www.provuldig2.com
+  - name: www.acdp.es
+    url: https://www.acdp.es
+  - name: admisionuchinternacional.ceu.es
+    url: https://admisionuchinternacional.ceu.es
+  - name: www.ceualumni.com
+    url: https://www.ceualumni.com
+  - name: www.congreso.ceu.es
+    url: https://www.congreso.ceu.es
+  - name: yolibre.org
+    url: https://yolibre.org
+  - name: www.aguadelceu.com
+    url: https://www.aguadelceu.com
+  - name: comoenlos50.com
+    url: https://comoenlos50.com
+  - name: www.lanuevacarteradelaministra.com
+    url: https://www.lanuevacarteradelaministra.com
+  - name: www.ceuediciones.es
+    url: https://www.ceuediciones.es
+  - name: www.hubceu.es
+    url: https://www.hubceu.es
+  - name: www.graciasenunminuto.com
+    url: https://www.graciasenunminuto.com
+  - name: www.pormuchasrazones.es
+    url: https://www.pormuchasrazones.es
+  - name: www.noticiario1936.com
+    url: http://www.noticiario1936.com
+  - name: www.bibliotecaceu.es
+    url: http://www.bibliotecaceu.es
+  - name: haleoalicante.ceu.es
+    url: https://haleoalicante.ceu.es
+  - name: innovationweek.ceu.es
+    url: https://innovationweek.ceu.es  
+  - name: www.fundacionaho.es
+    url: https://www.fundacionaho.es
+  - name: francescoeconomy.ceu.es
+    url: https://francescoeconomy.ceu.es
+  - name: moodlecmtp.ceu.es
+    url: https://moodlecmtp.ceu.es
+  - name: iehistoricos.ceu.es
+    url: https://iehistoricos.ceu.es  
+  - name: institutodemocracia.ceu.es
+    url: https://institutodemocracia.ceu.es
+  - name: revistascientificas.uspceu.com
+    url: https://revistascientificas.uspceu.com
+  - name: cembio.uspceu.es
+    url: https://cembio.uspceu.es
+  - name: blog.ciclosformativosceu.es
+    url: https://blog.ciclosformativosceu.es  
+  - name: presslext.ceu.es
+    url: https://presslext.ceu.es
+  - name: citeceu.ceu.es
+    url: https://citeceu.ceu.es
+  - name: congreso.provuldig.com
+    url: http://congreso.provuldig.com
+  - name: www.educaceu.es
+    url: http://www.educaceu.es  
+  - name: manage.ceu.es
+    url: https://manage.ceu.es
+  - name: www.encuentrofamiliasceu.com
+    url: https://www.encuentrofamiliasceu.com
+  - name: rss.uchceu.es
+    url: https://rss.uchceu.es
+  - name: intranet.ceu.es
+    url: https://intranet.ceu.es  
+  - name: www.ceucyl.com
+    url: https://www.ceucyl.com
+  - name: blogs.uao.es
+    url: https://blogs.uao.es
+  - name: aulanews.uao.es
+    url: https://aulanews.uao.es
+  - name: tuestrellapolar.uaoceu.es
+    url: https://tuestrellapolar.uaoceu.es  
+  - name: enquestes.uao.es
+    url: https://enquestes.uao.es
+  - name: feriainternacional.ceu.es
+    url: https://feriainternacional.ceu.es
+  - name: 500pacifico.uaoceu.es
+    url: https://500pacifico.uaoceu.es
+  - name: www.ceudigital.com
+    url: https://www.ceudigital.com  
+  - name: admisionuch.ceu.es
+    url: https://admisionuch.ceu.es
+  - name: blog.uchceu.es
+    url: https://blog.uchceu.es
+  - name: medios.uchceu.es
+    url: https://medios.uchceu.es
+  - name: 3d.ceu.es
+    url: https://3d.ceu.es 
+  - name: www.goliads.com
+    url: https://www.goliads.com
+  - name: educationtalks.es
+    url: https://educationtalks.es
+  - name: www.ceule.es
+    url: https://www.ceule.es
+  - name: emplea.ceu.es
+    url: https://emplea.ceu.es
+  - name: neurofan.ceu.es
+    url: https://neurofan.ceu.es
   - name: Chico RedIRIS
     check: "tcp-ping"
     url: 130.206.1.3
