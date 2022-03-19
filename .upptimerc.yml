@@ -59,7 +59,7 @@ sites:
   - name: www.clubemprendedoresceu.com
     url: http://www.clubemprendedoresceu.com
   - name: www.angelayala.ceu.es
-    url: https:// www.angelayala.ceu.es
+    url: https://www.angelayala.ceu.es
   - name: admisionint.uspceu.es
     url: https://admisionint.uspceu.es
   - name: revistas.uspceu.com
@@ -119,7 +119,7 @@ sites:
   - name: yolibre.org
     url: https://yolibre.org
   - name: www.aguadelceu.com
-    url: https://www.aguadelceu.com
+    url: http://www.aguadelceu.com
   - name: comoenlos50.com
     url: https://comoenlos50.com
   - name: www.lanuevacarteradelaministra.com
@@ -171,7 +171,7 @@ sites:
   - name: rss.uchceu.es
     url: https://rss.uchceu.es
   - name: intranet.ceu.es
-    url: https://intranet.ceu.es  
+    url: https://intranet.ceu.es/loginceu/Login.aspx  
   - name: www.ceucyl.com
     url: https://www.ceucyl.com
   - name: blogs.uao.es
