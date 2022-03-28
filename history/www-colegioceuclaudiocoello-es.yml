@@ -1,7 +1,7 @@
 url: https://www.colegioceuclaudiocoello.es
-status: up
-code: 200
-responseTime: 663
-lastUpdated: 2022-03-28T19:37:16.407Z
+status: down
+code: 500
+responseTime: 537
+lastUpdated: 2022-03-28T19:42:49.178Z
 startTime: Fri Mar 18 2022 23:07:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
