@@ -1,7 +1,7 @@
 url: http://www.ceumedia.es
-status: up
-code: 200
-responseTime: 4168
-lastUpdated: 2022-03-28T19:38:08.575Z
+status: down
+code: 500
+responseTime: 323
+lastUpdated: 2022-03-28T19:44:04.238Z
 startTime: Sat Mar 19 2022 11:50:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
