@@ -1,7 +1,7 @@
 url: https://intranet.ceu.es/loginceu/Login.aspx
-status: down
-code: 503
-responseTime: 472
-lastUpdated: 2022-04-25T07:43:43.770Z
+status: up
+code: 200
+responseTime: 530
+lastUpdated: 2022-04-25T07:49:32.127Z
 startTime: Sat Mar 19 2022 11:52:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
